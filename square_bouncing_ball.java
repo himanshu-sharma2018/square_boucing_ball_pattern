@@ -3,7 +3,7 @@
 *
 *           Himanshu Sharma
 *           himanshusharma2972@gmail.com
-*           Github - himanshu-sharma2018
+*           Github - himanshusharmacool
 *	********************************************
 *                 Bouncing Ball Pattern
 *       ********************************************
